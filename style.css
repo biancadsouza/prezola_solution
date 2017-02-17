@@ -1,0 +1,201 @@
+#body{
+max-width:1500px;
+margin:0px auto;
+font-family: 'Open Sans', sans-serif;
+color:rgb(124,125,129);
+}
+
+a:hover{
+    text-decoration: none;
+}
+
+.branding{
+    width:200px;
+    height:75px;
+    background-repeat: no-repeat;
+    float:left;
+    margin-top:10px;
+    margin-bottom:10px;
+    background-image:url('Assets/sitelogo.svg');
+    background-size:200px;
+}
+
+.options{
+    float:right;   
+}
+
+.options ul{
+    margin:0px;
+    padding:0px;
+}
+
+.options ul li{
+    float:left;
+    width:200px;
+    list-style-type:none;
+    padding:14px;
+    margin-right:5px;
+}
+
+.options ul li img{
+    float:left;
+    margin-right:5px;
+}
+
+.options ul li button{
+    width:200px;
+    background-color:rgb(224,107,142);
+}
+
+.options ul li button:hover{
+    background-color:rgb(194,94,124);
+}
+
+#big_image_section{
+    background-image:url('Assets/landing-page-hero.jpg');  
+    background-size:cover;
+    height:700px;
+}
+
+#big_image_section .container{
+    padding-top:100px;
+    height:100px;
+    text-align:center;
+}
+
+#big_image_section .container p#special{
+    font-family: 'Pacifico', cursive;
+    color: rgb(124,125,129);
+    font-size:70px;
+    margin-bottom:10px;
+    margin-top:30px;
+}
+
+#big_image_section .container p#alsospecial{   
+    color: rgb(124,125,129);
+    margin-top:60px;
+}
+
+#big_image_section .container p{
+    font-size:30px;
+}
+
+#big_image_section .container button{
+     margin-top:60px;
+    background-color:rgb(224,107,142);
+}
+
+#big_image_section .container button:hover{
+     margin-top:60px;
+    background-color:rgb(194,94,124);
+}
+
+#big_image_section .container #awards{   
+    margin-top:30px;
+}
+
+#big_image_section .container #down_arrow{   
+    margin-top:30px;
+}
+
+#review_star_section .container{
+    width:1325px;
+}
+
+#review_star_section .container #feefo{
+    padding:33px;
+}
+
+#review_star_section .container span{
+    font-size:30px;
+}
+
+#why_grid .container #text-title{
+    font-size: 30px;
+    text-align: center;
+}
+
+#why_grid .container #text-content{
+    font-size: 20px;
+    text-align: center;
+    width:842px;
+    margin-left:159px;
+}
+
+.col-lg-4{
+    padding:20px;
+}
+
+.grid-text-title{
+    font-size:20px;
+}
+
+.grid-image,.grid-text-title,.grid-text-content{
+    text-align:center;
+}
+
+#jum-title{
+    font-size:30px;
+    text-align:center;
+}
+
+#jum-text{
+    font-size:15px;
+    text-align:center;
+}
+
+.table{
+    width:70% !important;
+    margin:10px auto;
+}
+
+table th{
+    background-color: rgb(224,107,142);
+    color: white;
+}
+
+#signup{
+   margin-left: 700px;
+   margin-top: 21px; 
+}
+
+#footer{
+    height:500px;
+}
+
+#footer .container{
+    margin: 0px auto;
+}
+
+#aboutP, #policies, #customer-service, #follow-us{
+    float:left;
+    margin-left:50px;
+}
+
+#follow-us li .first, #follow-us li .last{
+    color: black;
+}
+
+
+
+#follow-us li{
+    color: #7faab6;
+}
+
+#follow-us li:hover{
+    color: #64919b;
+}
+
+.first{
+    margin-bottom:10px;
+    color:black;
+}
+
+.last{
+    margin-top:20px;
+    color:black;
+}
+
+ul li{
+    list-style-type: none;
+}
