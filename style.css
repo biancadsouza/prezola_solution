@@ -51,6 +51,7 @@ a:hover{
     background-color:rgb(194,94,124);
 }
 
+
 #big_image_section{
     background-image:url('Assets/landing-page-hero.jpg');  
     background-size:cover;
@@ -65,14 +66,14 @@ a:hover{
 
 #big_image_section .container p#special{
     font-family: 'Pacifico', cursive;
-    color: rgb(124,125,129);
+    color: white;
     font-size:70px;
     margin-bottom:10px;
     margin-top:30px;
 }
 
 #big_image_section .container p#alsospecial{   
-    color: rgb(124,125,129);
+    color: white;
     margin-top:60px;
 }
 
@@ -98,8 +99,9 @@ a:hover{
     margin-top:30px;
 }
 
+
 #review_star_section .container{
-    width:1325px;
+    width:1400px;
 }
 
 #review_star_section .container #feefo{
@@ -157,6 +159,14 @@ table th{
 #signup{
    margin-left: 700px;
    margin-top: 21px; 
+}
+
+button#signup{
+    background-color:rgb(224,107,142);
+}
+
+button#signup:hover{
+    background-color:rgb(194,94,124);
 }
 
 #footer{
